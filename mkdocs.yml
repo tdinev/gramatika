@@ -1,0 +1,4 @@
+site_name: Българска граматика
+site_url: https://tdinev.github.io/gramatika
+theme:
+  name: material
